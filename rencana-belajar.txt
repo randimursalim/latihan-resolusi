@@ -4,6 +4,7 @@ RENCANA BELAJAR
   * ES6
   * Framework Javascript
     1. Vue
+    2. React
 - Struktur Data Dasar
 - belajar php framework
   1. Laravel
