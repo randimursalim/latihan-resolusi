@@ -1,0 +1,8 @@
+RENCANA BELAJAR
+
+- belajar javascript
+  * ES6
+  * Framework Javascript
+- belajar php framework
+- review pelajaran
+- dokumentasi ke google drive
