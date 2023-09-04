@@ -3,7 +3,10 @@ RENCANA BELAJAR
 - belajar javascript
   * ES6
   * Framework Javascript
+    1. Vue
 - Struktur Data Dasar
 - belajar php framework
+  1. Laravel
 - review pelajaran
 - dokumentasi ke google drive
+- python
